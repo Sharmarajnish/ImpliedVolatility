@@ -1,0 +1,11 @@
+Package: ImpliedVolatility
+Type: Package
+Title: Calculate implied Volatility using Black Scholes model for European
+    options
+Version: 0.1.0
+Author: Rajnish Sharma <rajnish@u.nus.edu>
+Maintainer: Rajnish Sharma <rajnish@u.nus.edu>
+Description: Use bisection method to calculate implied volatility
+License: MIT
+LazyData: TRUE
+RoxygenNote: 5.0.1
